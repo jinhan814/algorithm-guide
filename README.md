@@ -77,4 +77,4 @@
 
 CC BY-NC
 
-이 저작물은 [크리에이티브 커먼즈 저작자표시-비영리 4.0 국제 라이선스](https://creativecommons.org/licenses/by-nc/2.0/kr/)에 따라 이용할 수 있습니다.
+이 저작물은 [크리에이티브 커먼즈 저작자표시-비영리 2.0 국제 라이선스](https://creativecommons.org/licenses/by-nc/2.0/kr/)에 따라 이용할 수 있습니다.
