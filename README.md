@@ -4,7 +4,7 @@
 
 ## Beginner
 
-main : https://blog.naver.com/jinhan814/222439906974
+ : https://blog.naver.com/jinhan814/222439906974
 
 **Theme 00. 기본 환경 설정**
 1) https://blog.naver.com/jinhan814/222440174434
