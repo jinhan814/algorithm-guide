@@ -32,7 +32,8 @@
 5) reverse, rotate : https://blog.naver.com/jinhan814/222563634012
 6) next_permutation : https://blog.naver.com/jinhan814/222568774582
 
-**Theme 04. 완전 탐색(Brute Force)** : https://blog.naver.com/jinhan814/222579884777
+**Theme 04. 완전 탐색(Brute Force)**
+1) https://blog.naver.com/jinhan814/222579884777
 
 **Theme 05. 재귀 / 분할정복(DnC)**
 
