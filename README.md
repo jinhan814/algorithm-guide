@@ -1,10 +1,10 @@
 # Jinhan's Note / Algorithm-Guide
 
-참고 : https://blog.naver.com/jinhan814/222439886998
+목차 : https://blog.naver.com/jinhan814/222439886998
 
 ## Beginner
 
-참고 : https://blog.naver.com/jinhan814/222439906974
+목차 : https://blog.naver.com/jinhan814/222439906974
 
 **Theme 00. 기본 환경 설정**
 1) https://blog.naver.com/jinhan814/222440174434
