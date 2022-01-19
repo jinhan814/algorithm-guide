@@ -60,10 +60,10 @@
 **Theme 11. misc**
 1) 연산자 우선순위 / ,연산자의 활용 / 단축 평가 : https://blog.naver.com/jinhan814/222622177089
 2) 비트 연산(bitwise operation)
-  1) c++ 자료형의 비트 표현 : https://blog.naver.com/jinhan814/222623538092
-  2) 비트 연산과 signed integer의 UB : https://blog.naver.com/jinhan814/222623538966
-  3) 비트 연산의 응용 : https://blog.naver.com/jinhan814/222624481044
-  4) 문제 풀이 : https://blog.naver.com/jinhan814/222624851975
+    1) c++ 자료형의 비트 표현 : https://blog.naver.com/jinhan814/222623538092
+    2) 비트 연산과 signed integer의 UB : https://blog.naver.com/jinhan814/222623538966
+    3) 비트 연산의 응용 : https://blog.naver.com/jinhan814/222624481044
+    4) 문제 풀이 : https://blog.naver.com/jinhan814/222624851975
 3) 람다식
 4) 연산자 오버로딩 / 구조체 (+ Functor)
 5) random, clock 사용법
