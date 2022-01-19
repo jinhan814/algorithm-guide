@@ -40,26 +40,33 @@
 1) https://blog.naver.com/jinhan814/222579884777
 
 **Theme 05. 재귀 / 분할정복(DnC)**
+1) https://blog.naver.com/jinhan814/222587262628
 
-**Theme 06. 다이나믹 프로그래밍 (1)**
+**Theme 06. 다이나믹 프로그래밍 - 기초**
+1) https://blog.naver.com/jinhan814/222603789811
 
-**Theme 07. 백트래킹**
+**Theme 07. 백트래킹(Backtracking)**
+1) https://blog.naver.com/jinhan814/222604405729
 
 **Theme 08. 구현 + 시뮬레이션**
+1) https://blog.naver.com/jinhan814/222605154765
 
-**Theme 09. 이분 탐색**
+**Theme 09. 이분 탐색(Binary Search)**
+1) https://blog.naver.com/jinhan814/222607789392
 
-**Theme 10. 그리디 (1)**
+**Theme 10. 그리디 - (1)**
+1) https://blog.naver.com/jinhan814/222609762108
 
 **Theme 11. misc**
-1) range-based for loop / structured binding / const, &의 사용
-2) 연산자 우선순위 / ,연산자의 활용 / 단축 평가
-3) 비트 연산 / ascii code
-4) 람다식
-5) 연산자 오버로딩 / 구조체 (+ Functor)
-6) % operator
-7) UB(Undefined Behavior) 예시, 자주 하는 실수 모음
-8) random, clock 사용법
+1) 연산자 우선순위 / ,연산자의 활용 / 단축 평가 : https://blog.naver.com/jinhan814/222622177089
+2) 비트 연산(bitwise operation)
+  1) c++ 자료형의 비트 표현 : https://blog.naver.com/jinhan814/222623538092
+  2) 비트 연산과 signed integer의 UB : https://blog.naver.com/jinhan814/222623538966
+  3) 비트 연산의 응용 : https://blog.naver.com/jinhan814/222624481044
+  4) 문제 풀이 : https://blog.naver.com/jinhan814/222624851975
+3) 람다식
+4) 연산자 오버로딩 / 구조체 (+ Functor)
+5) random, clock 사용법
 
 ## Intermediate
 
